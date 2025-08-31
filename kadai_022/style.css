@@ -52,7 +52,7 @@ h2::before{
 
 .contents p:nth-of-type(2)::first-letter {
   font-weight: bold;
-  color: rgb(97, 206, 259);
+  color: rgb(97, 206, 249);
 }
 
 .contents img{
@@ -85,3 +85,4 @@ a:hover{
   }
 
 }
+
